@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ogi Suganda & Zahra</title>
+    <meta name="description" content="Cerita tentang Zahra, sosok spesial bagi Ogi Suganda.">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #94a3b8;
+            font-weight: normal;
+            margin-bottom: 30px;
+        }
+        p {
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+        .highlight {
+            color: #38bdf8;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #64748b;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Ogi Suganda dan Kisah Tentang Zahra</h1>
+        <h2>Sosok yang Berbeda</h2>
+
+        <p>Di antara banyaknya orang yang pernah saya temui, ada satu nama yang selalu terasa berbeda—<span class="highlight">Zahra</span>.</p>
+
+        <p>Nama saya <span class="highlight">Ogi Suganda</span>. Dan entah sejak kapan, saya mulai menyadari bahwa perasaan ini bukan sekadar kagum biasa.</p>
+
+        <p>Zahra adalah tipe perempuan yang sulit dijelaskan dengan satu kata. Di usianya yang masih muda, dia punya cara berpikir yang dewasa—cara melihat dunia yang tidak semua orang miliki.</p>
+
+        <p>Zahra juga cantik—bukan hanya dari apa yang terlihat, tapi dari cara dia membawa dirinya. Ada ketenangan dalam wajahnya, ada kehangatan dalam caranya tersenyum.</p>
+
+        <p>Dia baik, tulus, dan percaya diri tanpa berlebihan. Ada sesuatu dalam dirinya yang membuat saya merasa dia berbeda dari yang lain.</p>
+
+        <p>Mungkin ini hanya cerita sederhana. Tapi bagi saya, Zahra adalah seseorang yang meninggalkan kesan yang dalam.</p>
+
+        <footer>
+            Ditulis oleh Ogi Suganda
+        </footer>
+    </div>
+</body>
+</html>
